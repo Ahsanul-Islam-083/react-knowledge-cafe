@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/QKd3f1s/sunset-landscape-with-hills-lake.jpg",
+        "title": "The Enchanting Colours of Dusk",
+        "author": "Sarah Jones",
+        "author_img": "https://i.ibb.co/LCyrkMd/Headshot-Posen.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 5,
+        "hashtags": ["sunset", "photography", "nature"]
+        },
+        {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/LZhbx2V/tp224-presentation-09-419.jpg",
+        "title": "Conquering the Mighty Peaks",
+        "author": "Alex Rodriguez",
+        "author_img": "https://i.ibb.co/f4zPMkT/Mountain-author.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 8,
+        "hashtags": ["mountains", "hiking", "adventure"]
+        },
+        {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/LvPQ45m/beautiful-old-city-view.jpg",
+        "title": "A Glimpse into the Past",
+        "author": "Dr. Isabella Khan",
+        "author_img": "https://i.ibb.co/M6y6Cwm/Glimp-author.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 12,
+        "hashtags": ["history", "architecture", "travel"]
+        },
+        {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/ZBr8d0G/top-view-different-seasonings-with-fresh-vegetables-dark-desk-spicy-pepper-food-salad-health.jpg",
+        "title": "Grandma's Secret Recipe",
+        "author": "David Thompson",
+        "author_img": "https://i.ibb.co/b5FVSXB/food-author.jpg",
+        "posted_date": "2024-03-09",
+        "reading_time": 7,
+        "hashtags": ["food", "cooking", "family"]
+        },
+        {
+        "id": 5,
+        "cover_img": "https://i.ibb.co/MPDh84L/10362569.jpg",
+        "title": "The Wonders of Nature",
+        "author": "Alice Williams",
+        "author_img": "https://i.ibb.co/8YTph4g/wildlife-author.jpg",
+        "posted_date": "2024-03-08",
+        "reading_time": 10,
+        "hashtags": ["wildlife", "animals", "environment"]
+        }
+]
